@@ -44,6 +44,8 @@ Run the generator
 
     $ rails generate typus
 
+Edit config/routes.rb and add 'typus_routes' somewhere depending on your desired routing priority.
+
 Start the application server
 
     $ rails server
