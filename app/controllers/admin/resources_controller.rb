@@ -191,7 +191,7 @@ class Admin::ResourcesController < Admin::BaseController
   end
 
   def set_scope
-    #@resource.unscoped
+    @resource.unscoped
   end
 
   def get_object
