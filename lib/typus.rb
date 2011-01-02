@@ -10,6 +10,7 @@ require "typus/i18n"
 require "typus/orm/active_record"
 require "typus/user"
 require "typus/version"
+require "typus/routes"
 
 require "render_inheritable"
 require "will_paginate"
